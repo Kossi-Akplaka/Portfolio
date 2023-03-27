@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 01 Jan 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://kossi-akplaka.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1: Housing price Estimator</title>
-      <link>https://kossi-akplaka.github.io/Portfolio/post/project1/</link>
+      <link>https://kossi-akplaka.github.io/Portfolio/post/project3/</link>
       <pubDate>Sun, 01 Jan 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://kossi-akplaka.github.io/Portfolio/post/project1/</guid>
+      <guid>https://kossi-akplaka.github.io/Portfolio/post/project3/</guid>
       <description>Gather data on housing prices in New York from various sources, such as online real estate databases, government datasets, and real estate agents. Preprocess the data by removing missing values, outliers, and irrelevant variables. Transform the variables into numerical values and perform feature engineering. Build a machine learning model, such as a linear regression or random forest, that takes in the input variables and predicts the output variable of housing price.</description>
     </item>
     
@@ -42,6 +42,15 @@
       <guid>https://kossi-akplaka.github.io/Portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
 Platform URL LinkedIn: https://www.linkedin.com/in/kossiakplaka/ GitHub: https://github.com/Kossi-Akplaka Kaggle: https://www.kaggle.com/flavioakplaka Contact me: Email: akplakaflavio8@gmail.com Telephone: 929-602-9082 </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Product Demand Forecasting</title>
+      <link>https://kossi-akplaka.github.io/Portfolio/post/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kossi-akplaka.github.io/Portfolio/post/project1/</guid>
+      <description>Product demand forecasting helps businesses make informed decisions about inventory management, production planning, and pricing strategies based on predicted demand which lead to improved profitability, reduced waste, and increased customer satisfaction. Collected the relevant data from Kaggle for the time series, preprocessed the data by removing missing values, outliers, and irrelevant variables and performed feature engineering. Decomposed the time series into its components, including trend, seasonality, and noise and made the time series stationary, meaning its statistical properties remain constant over time.</description>
     </item>
     
   </channel>
